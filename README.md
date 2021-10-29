@@ -4,7 +4,9 @@
 Step 1.
 
 create data structure with Sealed class
+
 ![image](https://user-images.githubusercontent.com/53125879/139487512-4eba868b-53fd-4298-bdb6-9c52f3407713.png)
+
 
 Step 2.
 Create RecyclerView Holder class including data items
