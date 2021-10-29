@@ -18,4 +18,6 @@ Create RecyclerView Adator class including ViewHolder
 ![image](https://user-images.githubusercontent.com/53125879/139488189-b78d175e-b500-4f52-ba5e-596bf1c91bd7.png)
 
 [Recycler View with 3 view types]
+
+
 ![image](https://user-images.githubusercontent.com/53125879/139489611-da490dff-fe13-42af-b058-e09272e0d89b.png)
